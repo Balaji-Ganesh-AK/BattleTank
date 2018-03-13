@@ -1,3 +1,6 @@
+*.VC.db
+*.Autoave
+/Saved
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -53,7 +56,7 @@ Binaries/*
 
 # Builds
 Build/*
-
+Saved/*
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
@@ -73,3 +76,4 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Battle_Tank/MyProject/Saved/
